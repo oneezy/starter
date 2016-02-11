@@ -1,0 +1,31 @@
+{
+  "name": "starter",
+  "version": "0.0.1",
+  "description": "starter",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "starter"
+  ],
+  "author": "Justin O'Neill",
+  "license": "ISC",
+  "dependencies": {
+    "clean-css": "^3.2.6",
+    "favicons": "^4.4.5"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.9.1",
+    "del": "^1.1.1",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.5.2",
+    "gulp-inject": "^3.0.0",
+    "gulp-minify-css": "^1.1.0",
+    "gulp-minify-html": "^1.0.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.2.0",
+    "gulp-watch": "^4.2.4",
+    "run-sequence": "^1.1.0"
+  }
+}

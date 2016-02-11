@@ -1,0 +1,32 @@
+@media (min-width: 769px) {
+
+/*
+==========================================================================
+ TABLET GRID
+========================================================================== */
+
+/* Columns */
+.tablet5 { width: 5%; float: left; display: block; }
+.tablet10 { width: 10%; float: left; display: block; }
+.tablet15 { width: 15%; float: left; display: block; }
+.tablet20 { width: 20%; float: left; display: block; }
+.tablet25 { width: 25%; float: left; display: block; }
+.tablet30 { width: 30%; float: left; display: block; }
+.tablet33 { width: 33.33%; float: left; display: block; }
+.tablet35 { width: 35%; float: left; display: block; }
+.tablet40 { width: 40%; float: left; display: block; }
+.tablet45 { width: 45%; float: left; display: block; }
+.tablet50 { width: 50%; float: left; display: block; }
+.tablet55 { width: 55%; float: left; display: block; }
+.tablet60 { width: 60%; float: left; display: block; }
+.tablet65 { width: 65%; float: left; display: block; }
+.tablet66 { width: 66.66%; float: left; display: block; }
+.tablet70 { width: 70%; float: left; display: block; }
+.tablet75 { width: 75%; float: left; display: block; }
+.tablet80 { width: 80%; float: left; display: block; }
+.tablet85 { width: 85%; float: left; display: block; }
+.tablet90 { width: 90%; float: left; display: block; }
+.tablet95 { width: 95%; float: left; display: block; }
+.tablet100 { width: 100%; float: left; display: block; }
+
+}

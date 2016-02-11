@@ -1,0 +1,39 @@
+/*
+==========================================================================
+ RESPONSIVE DESIGN (Universal Styles)
+========================================================================== */
+
+/* Rows */
+.row:before, .row:after { content: " "; display: table; }
+.row:after { clear: both; }
+.row { *zoom: 1; clear: both;  }
+
+/* Columns */
+.col5 { width: 5%; float: left; display: block; }
+.col10 { width: 10%; float: left; display: block; }
+.col18 { width: 18%; float: left; display: block; }
+.col15 { width: 15%; float: left; display: block; }
+.col20 { width: 20%; float: left; display: block; }
+.col22 { width: 22%; float: left; display: block; }
+.col25 { width: 25%; float: left; display: block; }
+.col30 { width: 30%; float: left; display: block; }
+.col31 { width: 31%; float: left; display: block; }
+.col32 { width: 32%; float: left; display: block; }
+.col33 { width: 33.33%; float: left; display: block; }
+.col35 { width: 35%; float: left; display: block; }
+.col40 { width: 40%; float: left; display: block; }
+.col45 { width: 45%; float: left; display: block; }
+.col50 { width: 50%; float: left; display: block; }
+.col55 { width: 55%; float: left; display: block; }
+.col60 { width: 60%; float: left; display: block; }
+.col63 { width: 63%; float: left; display: block; }
+.col64 { width: 64%; float: left; display: block; }
+.col65 { width: 65%; float: left; display: block; }
+.col66 { width: 66.66%; float: left; display: block; }
+.col70 { width: 70%; float: left; display: block; }
+.col75 { width: 75%; float: left; display: block; }
+.col80 { width: 80%; float: left; display: block; }
+.col85 { width: 85%; float: left; display: block; }
+.col90 { width: 90%; float: left; display: block; }
+.col95 { width: 95%; float: left; display: block; }
+.col100 { width: 100%; float: left; display: block; }

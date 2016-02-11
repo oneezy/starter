@@ -1,0 +1,30 @@
+@media (min-width: 769px) {
+
+/*
+==========================================================================
+    TABLET STYLES
+========================================================================== */
+
+.wrapper { width: 90%; }
+.navigation { float: right; width: 60%; }
+
+h1 { font-size: 64px; }
+h2 { font-size: 24px; }
+
+
+/* Main */
+main .fullscreen-img { height: 40vh; }
+.bg-company { background: url("../../images/world-map.svg") no-repeat center center #2196f3; background-size: 60% !important; }
+.bg-services { background: url("../../images/services.jpg") no-repeat center center; }
+.bg-inventory { background: url("../../images/inventory.jpg") no-repeat center center; }
+.bg-contact { background: url("../../images/contact.jpg") no-repeat center center; }
+
+main .fullscreen-img section { top: 7vh; }
+
+.logo-img { float: left; display: block; width: 60px; margin: 7px 0 0; }
+.logo-text { float: left; display: block; width: 200px; margin: 18px 0 0 5px; }
+
+/* Footer */
+footer { background: #000; }
+
+}

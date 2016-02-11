@@ -1,0 +1,22 @@
+@media (min-width: 1025px) {
+
+/*
+==========================================================================
+ DESKTOP STYLESHEET
+========================================================================== */
+
+.wrapper { width: 80%; }
+
+main .fullscreen-img { height: 50vh; }
+
+.bg-company { background: url("../../images/world-map.svg") no-repeat center center #2196f3; background-size: 40% !important; }
+.bg-services { background: url("../../images/services.jpg") no-repeat center center; }
+.bg-inventory { background: url("../../images/inventory.jpg") no-repeat center center; }
+.bg-contact { background: url("../../images/contact.jpg") no-repeat center center; }
+
+main .fullscreen-img section { background-image: radial-gradient(rgba(0, 0, 0, .80) -20%, transparent 75%); top: 12vh; }
+main .fullscreen-img h1 { font-size: 72px; }
+main .fullscreen-img h2 { font-size: 36px; }
+
+
+}

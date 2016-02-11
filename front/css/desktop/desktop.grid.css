@@ -1,0 +1,38 @@
+@media (min-width: 1025px) {
+
+/*
+==========================================================================
+ DESKTOP GRID
+========================================================================== */
+
+/* Columns */
+.desktop5 { width: 5%; float: left; display: block; }
+.desktop10 { width: 10%; float: left; display: block; }
+.desktop18 { width: 18%; float: left; display: block; }
+.desktop15 { width: 15%; float: left; display: block; }
+.desktop20 { width: 20%; float: left; display: block; }
+.desktop22 { width: 22%; float: left; display: block; }
+.desktop25 { width: 25%; float: left; display: block; }
+.desktop30 { width: 30%; float: left; display: block; }
+.desktop31 { width: 31%; float: left; display: block; }
+.desktop32 { width: 32%; float: left; display: block; }
+.desktop33 { width: 33.33%; float: left; display: block; }
+.desktop35 { width: 35%; float: left; display: block; }
+.desktop40 { width: 40%; float: left; display: block; }
+.desktop45 { width: 45%; float: left; display: block; }
+.desktop50 { width: 50%; float: left; display: block; }
+.desktop55 { width: 55%; float: left; display: block; }
+.desktop60 { width: 60%; float: left; display: block; }
+.desktop63 { width: 63%; float: left; display: block; }
+.desktop64 { width: 64%; float: left; display: block; }
+.desktop65 { width: 65%; float: left; display: block; }
+.desktop66 { width: 66.66%; float: left; display: block; }
+.desktop70 { width: 70%; float: left; display: block; }
+.desktop75 { width: 75%; float: left; display: block; }
+.desktop80 { width: 80%; float: left; display: block; }
+.desktop85 { width: 85%; float: left; display: block; }
+.desktop90 { width: 90%; float: left; display: block; }
+.desktop95 { width: 95%; float: left; display: block; }
+.desktop100 { width: 100%; float: left; display: block; }
+
+}
