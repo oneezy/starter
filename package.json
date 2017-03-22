@@ -12,7 +12,7 @@
   "author": "Justin O'Neill",
   "license": "ISC",
   "dependencies": {
-    "clean-css": "^3.2.6",
+    "clean-css": "^4.0.10",
     "favicons": "^4.4.5"
   },
   "devDependencies": {
