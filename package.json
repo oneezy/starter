@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "clean-css": "^3.2.6",
-    "favicons": "^4.4.5"
+    "favicons": "^5.0.0"
   },
   "devDependencies": {
     "browser-sync": "^2.9.1",
